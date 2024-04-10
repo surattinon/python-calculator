@@ -31,11 +31,12 @@ e = 45
 d + e = f
 print(f)
 
-# From basu02 branch commit 03
+# From conflict basu02 branch commit 04
 print("From branch \"basu02\"") # conflict test
-a = 55
-b = 48
-a + b = c
+a = 59
+b = 41
+d = 60
+a + b + d = c
 print(c)
 
     user_operation = input()
