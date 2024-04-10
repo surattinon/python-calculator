@@ -1,5 +1,13 @@
 # Add your functions here!
 
+def add(user_input1, user_input2):
+    print(user_input1 + user_input2)
+
+def subtract(user_input1, user_input2):
+    print(user_input1 - user_input2)
+
+def multiply(user_input1, user_input2):
+    print(user_input1 / user_input2)
 
 def main():
     print("Enter the operation you want to perform: ")
