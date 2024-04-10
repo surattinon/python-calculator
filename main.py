@@ -17,13 +17,6 @@ def modulo(user_input1, user_input2):
 def main():
     print("Enter the operation you want to perform: ")
 
-# From basu branch
-print("From branch \"basu\"")
-x = 10
-y = 45
-y + x = z
-print(z)
-
 # From basu02 branch
 print("From branch \"basu02\"")
 a = 55
